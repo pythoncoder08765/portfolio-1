@@ -1,7 +1,10 @@
 🌐 Manvi Gupta - Personal Portfolio Website
 This is a responsive personal portfolio website built with HTML and Tailwind CSS. It showcases sections like Hero, About, Skills, Services, and Contact, making it ideal for frontend developers or designers who want to present their skills and projects in a clean and professional layout.
 
-📸 Preview
+
+<img width="1226" height="751" alt="Screenshot 2025-07-24 151839" src="https://github.com/user-attachments/assets/6cf68eda-3b55-44d7-9456-e1cff73fe4ec" />
+
+
 
 
 ✨ Features
@@ -40,7 +43,11 @@ bash
 Copy
 Edit
 https://github.com/pythoncoder08765/portfolio-1
+
+
 live link:https://pythoncoder08765.github.io/portfolio-1/
+
+
 Open index.html
 You can simply open the index.html file in your browser to view the portfolio.
 
